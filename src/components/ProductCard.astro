@@ -1,0 +1,108 @@
+---
+import { getGoUrl } from '@/data/affiliate-products';
+import type { Product } from '@/data/affiliate-products';
+
+interface Props {
+  product: Product;
+  variant?: 'full' | 'compact';
+  showDisclosure?: boolean;
+}
+
+const {
+  product,
+  variant = 'full',
+  showDisclosure = true,
+} = Astro.props;
+
+const affiliateUrl = getGoUrl(product.slug);
+const ratingStars = Math.round(product.rating);
+---
+
+<div class:list={[
+  'product-card border border-gray-200 rounded-lg overflow-hidden bg-white shadow-sm hover:shadow-md transition-shadow',
+  variant === 'full' ? 'flex flex-col sm:flex-row' : '',
+]}>
+  {variant === 'full' ? (
+    <>
+      <div class="sm:w-48 flex-shrink-0 bg-gray-50 p-4 flex items-center justify-center">
+        <img
+          src={product.imageUrl}
+          alt={product.title}
+          class="max-w-full max-h-48 object-contain"
+          loading="lazy"
+          width="200"
+          height="200"
+        />
+      </div>
+      <div class="flex-1 p-5">
+        <div class="text-xs text-text-muted uppercase tracking-wide mb-1">{product.category}</div>
+        <h3 class="text-lg font-semibold mb-1">{product.title}</h3>
+        <div class="flex items-center gap-2 mb-2">
+          <div class="flex text-accent" aria-label={`Rating: ${product.rating} out of 5`}>
+            {Array.from({ length: 5 }).map((_, i) => (
+              <span class={i < ratingStars ? 'text-accent' : 'text-gray-300'}>
+                &#9733;
+              </span>
+            ))}
+          </div>
+          <span class="text-sm text-text-muted">{product.rating}/5</span>
+          <span class="text-sm text-text-muted ml-1">{product.price}</span>
+        </div>
+        <p class="text-sm text-text-muted mb-3">{product.description}</p>
+        <ul class="text-sm text-text-muted space-y-1 mb-4">
+          {product.features.map((feature) => (
+            <li class="flex items-start gap-1.5">
+              <span class="text-green-600 mt-0.5">&#10003;</span>
+              {feature}
+            </li>
+          ))}
+        </ul>
+        <a
+          href={affiliateUrl}
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          class="inline-block bg-accent hover:bg-accent-light text-white font-semibold px-6 py-2.5 rounded-lg transition-colors duration-200 text-sm"
+        >
+          Check Price on Amazon
+        </a>
+        {showDisclosure && (
+          <p class="text-xs text-text-muted mt-3">
+            As an Amazon Associate, we earn from qualifying purchases.
+          </p>
+        )}
+      </div>
+    </>
+  ) : (
+    <div class="p-4">
+      <div class="flex items-start gap-3">
+        <div class="w-20 flex-shrink-0 bg-gray-50 rounded p-2 flex items-center justify-center">
+          <img
+            src={product.imageUrl}
+            alt={product.title}
+            class="max-w-full max-h-20 object-contain"
+            loading="lazy"
+            width="80"
+            height="80"
+          />
+        </div>
+        <div class="flex-1 min-w-0">
+          <h4 class="text-sm font-semibold mb-1 truncate">{product.title}</h4>
+          <div class="flex items-center gap-2 mb-1">
+            <span class="text-xs text-accent">
+              {Array.from({ length: ratingStars }).map(() => '&#9733;')}
+            </span>
+            <span class="text-xs text-text-muted">{product.price}</span>
+          </div>
+          <a
+            href={affiliateUrl}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            class="text-xs text-primary hover:text-primary-light font-medium"
+          >
+            View on Amazon &rarr;
+          </a>
+        </div>
+      </div>
+    </div>
+  )}
+</div>

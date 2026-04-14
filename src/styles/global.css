@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary: #166534;
+  --color-primary-light: #16a34a;
+  --color-primary-dark: #14532d;
+  --color-accent: #d97706;
+  --color-accent-light: #f59e0b;
+  --color-surface: #f0fdf4;
+  --color-surface-dark: #052e16;
+  --color-text: #1e293b;
+  --color-text-muted: #64748b;
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
