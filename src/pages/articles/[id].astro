@@ -28,8 +28,8 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
-const ckFormId = import.meta.env.PUBLIC_CK_FORM_ID || '';
 ---
+
 
 <BaseLayout title={article.data.title} description={article.data.description}>
   <article class="py-16">
@@ -67,7 +67,6 @@ const ckFormId = import.meta.env.PUBLIC_CK_FORM_ID || '';
             <Content />
           </div>
           <EmailCapture
-            convertKitFormId={ckFormId}
             siteId="pestcontrolinsider"
             placementType="inline"
             leadMagnetLabel="Pest Prevention Checklist"
@@ -82,7 +81,6 @@ const ckFormId = import.meta.env.PUBLIC_CK_FORM_ID || '';
             <AdSlot slot="article-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
           </div>
           <EmailCapture
-            convertKitFormId={ckFormId}
             siteId="pestcontrolinsider"
             placementType="cta"
             leadMagnetLabel="Pest Prevention Checklist"
@@ -111,7 +109,6 @@ const ckFormId = import.meta.env.PUBLIC_CK_FORM_ID || '';
     </div>
   </article>
   <EmailCapture
-    convertKitFormId={ckFormId}
     siteId="pestcontrolinsider"
     placementType="exit-intent"
     leadMagnetLabel="Pest Prevention Checklist"
