@@ -3,6 +3,7 @@ import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import CookieConsent from '@/components/CookieConsent.astro';
+import JsonLd from '@/components/JsonLd.astro';
 
 const ADSENSE_CLIENT = 'ca-pub-3974028728541243';
 
@@ -10,17 +11,49 @@ interface Props {
   title: string;
   description?: string;
   canonical?: string;
+  structuredData?: Record<string, unknown>[];
+  breadcrumbTitle?: string;
 }
 
 const {
   title,
   description = 'Pest Control Insider — Expert pest control guides, identification tips, and resources for professionals and homeowners.',
   canonical,
+  structuredData = [],
+  breadcrumbTitle,
 } = Astro.props;
 
 const siteTitle = `${title} | Pest Control Insider`;
 const canonicalUrl = canonical || new URL(Astro.url.pathname, Astro.site).href;
 const adsenseEnabled = ADSENSE_CLIENT !== 'ca-pub-XXXXXXXXXXXXXXXX';
+
+const segments = Astro.url.pathname.replace(/\/$/, '').split('/').filter(Boolean);
+const breadcrumbItems: Array<{ '@type': string; position: number; name: string; item?: string }> = [
+  { '@type': 'ListItem', position: 1, name: 'Home', item: Astro.site?.href },
+];
+
+let currentPath = '';
+for (let i = 0; i < segments.length; i++) {
+  currentPath += '/' + segments[i];
+  const isLast = i === segments.length - 1;
+  const rawName = segments[i].replace(/[-_]/g, ' ');
+  const name = isLast && breadcrumbTitle
+    ? breadcrumbTitle
+    : rawName.charAt(0).toUpperCase() + rawName.slice(1);
+  breadcrumbItems.push({
+    '@type': 'ListItem',
+    position: i + 2,
+    name,
+    ...(isLast ? {} : { item: new URL(currentPath, Astro.site).href }),
+  });
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbItems,
+};
+
 export { ADSENSE_CLIENT };
 ---
 
@@ -58,6 +91,8 @@ export { ADSENSE_CLIENT };
       ></script>
     )}
     <meta name="impact-site-verification" value="3e5ecd3a-54c6-4434-92ec-2f0f5e744d9b">
+    <JsonLd data={breadcrumbSchema} />
+    {structuredData.map((schema) => <JsonLd data={schema} />)}
   </head>
   <body class="min-h-screen flex flex-col bg-surface text-text font-body">
     <Header />

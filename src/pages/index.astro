@@ -22,9 +22,20 @@ const articles = (await getCollection('articles'))
   .slice(0, 3);
 
 const featuredArticle = articles[0];
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Pest Control Insider',
+  url: Astro.site?.href,
+};
 ---
 
-<BaseLayout title="Home" description="Pest Control Insider — Expert pest control guides, identification tips, and DIY advice for homeowners and professionals.">
+<BaseLayout
+  title="Home"
+  description="Pest Control Insider — Expert pest control guides, identification tips, and DIY advice for homeowners and professionals."
+  structuredData={[websiteSchema]}
+>
   <!-- Hero: Cover image with blog description -->
   <section class="py-16 md:py-24 bg-white">
     <div class="max-w-6xl mx-auto px-4">
