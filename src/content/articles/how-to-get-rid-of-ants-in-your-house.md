@@ -5,7 +5,7 @@ pubDate: 2026-04-14
 updatedDate: 2026-04-14
 author: "Kevin Larrabee"
 tags: ["Ant Control", "DIY Pest Control", "Indoor Pests"]
-image: "https://images.pexels.com/photos/7254419/pexels-photo-7254419.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/8155504/pexels-photo-8155504.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Finding ants in your kitchen, bathroom, or anywhere inside your home is one of the most common pest problems homeowners face. The good news: with the right approach, you can eliminate an ant infestation and prevent it from coming back.
