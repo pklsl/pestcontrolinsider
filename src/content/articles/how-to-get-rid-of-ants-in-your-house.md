@@ -3,7 +3,7 @@ title: "How to Get Rid of Ants in Your House: A Complete Guide"
 description: "Discover the most effective methods to eliminate ants from your home — from identifying the species to sealing entry points and choosing the right treatment."
 pubDate: 2026-04-14
 updatedDate: 2026-04-14
-author: "Pest Control Insider Editorial Team"
+author: "Kevin Larrabee"
 tags: ["Ant Control", "DIY Pest Control", "Indoor Pests"]
 image: "https://images.pexels.com/photos/7254419/pexels-photo-7254419.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

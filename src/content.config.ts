@@ -8,7 +8,7 @@ const articles = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    author: z.string().default('Pest Control Insider Team'),
+    author: z.string().default('Kevin Larrabee'),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
   }),
