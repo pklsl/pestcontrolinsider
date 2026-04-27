@@ -3,20 +3,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import EmailCapture from '@/components/EmailCapture.astro';
-import LeadGenForm from '@/components/LeadGenForm.astro';
 import ProductRecommendations from '@/components/ProductRecommendations.astro';
 import { getCollection, render } from 'astro:content';
-
-const PEST_SERVICES = [
-  'Ant Control',
-  'Cockroach Control',
-  'Rodent Control (Rats / Mice)',
-  'Bed Bug Treatment',
-  'Termite Treatment',
-  'Wasp / Bee Removal',
-  'General Pest Inspection',
-  'Other Pest Service',
-];
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -109,20 +97,6 @@ const articleSchema = {
           <div class="mt-8">
             <AdSlot slot="article-in-content-1" format="horizontal" lazy={true} minHeight="90px" />
           </div>
-          <div class="mt-4">
-            <AdSlot slot="article-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
-          </div>
-          <EmailCapture
-            siteId="pestcontrolinsider"
-            placementType="cta"
-            leadMagnetLabel="Pest Prevention Checklist"
-          />
-          <LeadGenForm
-            siteId="pestcontrolinsider"
-            serviceTypes={PEST_SERVICES}
-            heading="Need a Pest Control Pro? Get a Free Estimate"
-            subheading="Connect with a certified local exterminator — no obligation."
-          />
           <div class="mt-6">
             <AffiliateDisclosure variant="full" />
           </div>
