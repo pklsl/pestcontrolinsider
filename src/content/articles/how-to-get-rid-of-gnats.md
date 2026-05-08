@@ -5,7 +5,7 @@ pubDate: 2026-05-06
 updatedDate: 2026-05-06
 author: "Kevin Larrabee"
 tags: ["Gnat Control", "Fungus Gnats", "Indoor Pests", "DIY Pest Control"]
-image: "https://images.pexels.com/photos/7969284/pexels-photo-7969284.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/7975082/pexels-photo-7975082.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Gnats seem to materialize out of nowhere — circling your face, hovering around your houseplants, swarming near the kitchen sink. They're frustrating, persistent, and most people treat them wrong because they don't realize there are different types of gnats with completely different causes and solutions.
