@@ -1,20 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import AdSlot from '@/components/AdSlot.astro';
 import EmailSignup from '@/components/EmailSignup.astro';
-import LeadGenForm from '@/components/LeadGenForm.astro';
 import { getCollection } from 'astro:content';
-
-const PEST_SERVICES = [
-  'Ant Control',
-  'Cockroach Control',
-  'Rodent Control (Rats / Mice)',
-  'Bed Bug Treatment',
-  'Termite Treatment',
-  'Wasp / Bee Removal',
-  'General Pest Inspection',
-  'Other Pest Service',
-];
 
 const DEFAULT_IMAGE = "https://images.pexels.com/photos/7254419/pexels-photo-7254419.jpeg?auto=compress&cs=tinysrgb&w=800";
 const articles = (await getCollection('articles'))
@@ -72,10 +59,6 @@ const websiteSchema = {
     </div>
   </section>
 
-  <div class="max-w-6xl mx-auto px-4 py-4">
-    <AdSlot slot="home-in-content-1" format="horizontal" lazy={true} minHeight="90px" />
-  </div>
-
   <!-- Latest Articles with thumbnails -->
   {articles.length > 0 && (
     <section class="py-16 bg-surface">
@@ -121,22 +104,6 @@ const websiteSchema = {
       </div>
     </section>
   )}
-
-  <div class="max-w-6xl mx-auto px-4 py-4">
-    <AdSlot slot="home-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
-  </div>
-
-  <!-- Lead Gen Form -->
-  <section class="py-16 bg-surface">
-    <div class="max-w-2xl mx-auto px-4">
-      <LeadGenForm
-        siteId="pestcontrolinsider"
-        serviceTypes={PEST_SERVICES}
-        heading="Get a Free Pest Control Estimate"
-        subheading="Tell us about your pest problem and a licensed local exterminator will contact you within 1 business day."
-      />
-    </div>
-  </section>
 
   <!-- Email Signup CTA -->
   <section class="py-16">
