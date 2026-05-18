@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Termite Treatment", "Termite Treatment Cost", "Pest Control"]
-image: "https://images.pexels.com/photos/8197503/pexels-photo-8197503.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/12895278/pexels-photo-12895278.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 If you've confirmed a termite infestation — or a pest professional has — the next question is treatment. Unlike most household pests, termite treatment is almost never a DIY proposition. The products required aren't available to consumers, and improperly applied treatments can allow infestations to continue spreading unseen for years.

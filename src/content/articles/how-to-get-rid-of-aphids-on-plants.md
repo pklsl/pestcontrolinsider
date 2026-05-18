@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Aphid Control", "Garden Pests", "Natural Pest Control"]
-image: "https://images.pexels.com/photos/1459505/pexels-photo-1459505.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/20826372/pexels-photo-20826372.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Aphids are among the most common garden pests in North America — small, soft-bodied insects that cluster on new growth, stems, and leaf undersides, piercing plant tissue to feed on sap. They reproduce explosively: a single aphid can produce 80 offspring in a week under warm conditions. Left unchecked, aphid colonies cause stunted growth, distorted leaves, sooty mold from their honeydew secretions, and in severe cases, plant death.

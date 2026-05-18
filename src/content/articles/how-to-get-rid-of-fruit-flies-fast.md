@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Fruit Fly Control", "DIY Pest Control", "Kitchen Pests"]
-image: "https://images.pexels.com/photos/7969284/pexels-photo-7969284.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/7996161/pexels-photo-7996161.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Fruit flies seem to appear from nowhere. One day your kitchen is fine, and the next there's a cloud of tiny flies hovering over your fruit bowl. The reason: a single female fruit fly lays up to 500 eggs, and those eggs hatch in as little as 24 hours. Within days, a small population becomes a large one.

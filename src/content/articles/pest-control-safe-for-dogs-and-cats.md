@@ -4,7 +4,7 @@ description: "How to deal with common household pests when you have dogs or cats
 pubDate: 2026-05-18
 author: "Kevin Larrabee"
 tags: ["pet-safe pest control", "pest control", "dogs", "cats"]
-image: "https://images.pexels.com/photos/1909802/pexels-photo-1909802.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/46024/pexels-photo-46024.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Pest problems don't stop because you have pets — but the approach you take has to change. Many of the most effective pest control products are harmful or outright toxic to dogs and cats. The good news is that for most common household pests, there are safe, effective options that work well around pets. For a product-focused look at which chemicals are dangerous and which are safe, see our [pet-safe pest control guide](/articles/pet-safe-pest-control).

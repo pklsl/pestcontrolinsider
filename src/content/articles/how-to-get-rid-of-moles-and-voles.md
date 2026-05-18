@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Mole Control", "Vole Control", "Lawn Pests"]
-image: "https://images.pexels.com/photos/1453499/pexels-photo-1453499.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/34407568/pexels-photo-34407568.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Moles and voles are frequently confused — and controlling the wrong one wastes time and money. They're completely different animals with different diets, different damage patterns, and different control strategies. This guide helps you identify which you're dealing with and eliminate them efficiently.

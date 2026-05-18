@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Pest Proof House", "Seal House from Pests", "Pest Prevention"]
-image: "https://images.pexels.com/photos/7469339/pexels-photo-7469339.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/6124242/pexels-photo-6124242.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Pest-proofing your home is the highest-ROI pest control action available. A single afternoon of exclusion work can prevent infestations that would cost hundreds or thousands to treat. Mice squeeze through 1/4 inch gaps. Cockroaches fit through gaps as thin as 1/16 inch. Stink bugs and ants exploit the smallest cracks in caulk.

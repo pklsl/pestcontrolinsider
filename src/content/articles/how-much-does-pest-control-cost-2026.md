@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Pest Control Cost", "Pest Control Pricing", "Pest Control"]
-image: "https://images.pexels.com/photos/7469339/pexels-photo-7469339.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/16164823/pexels-photo-16164823.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Pest control costs range from $50 for a basic ant treatment to $10,000+ for severe termite fumigation of a large home. Understanding what drives pricing — pest type, treatment method, home size, and service frequency — helps you evaluate quotes accurately and avoid overpaying.

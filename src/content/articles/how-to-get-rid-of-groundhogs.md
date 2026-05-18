@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Groundhog Control", "Wildlife Control", "Garden Pests"]
-image: "https://images.pexels.com/photos/5083406/pexels-photo-5083406.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/32903983/pexels-photo-32903983.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Groundhogs (also called woodchucks, *Marmota monax*) are large, burrowing rodents found throughout the eastern United States and Canada. They're surprisingly destructive: a single groundhog can consume 1–1.5 pounds of vegetation per day, devastate vegetable gardens, and undermine foundations and decks with extensive burrow systems.

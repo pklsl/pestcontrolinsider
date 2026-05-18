@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Winter Pest Control", "Winter Pests", "Indoor Pest Control"]
-image: "https://images.pexels.com/photos/4020573/pexels-photo-4020573.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/6549130/pexels-photo-6549130.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Many homeowners assume pest problems take a winter break. They don't — they just shift. Cold weather doesn't eliminate pest activity; it concentrates it. Pests that are inside your home in winter are there for the season, and they have months to reproduce and establish before spring.

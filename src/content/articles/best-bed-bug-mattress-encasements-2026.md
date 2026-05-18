@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Bed Bug Mattress Encasement", "Bed Bug Prevention", "Product Reviews"]
-image: "https://images.pexels.com/photos/4021758/pexels-photo-4021758.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/7598137/pexels-photo-7598137.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A mattress encasement is the single most cost-effective bed bug product you can buy — whether you're dealing with an active infestation or just protecting a new mattress. The right encasement traps bed bugs inside the mattress (or box spring) where they eventually die, and it prevents new bugs from establishing inside.

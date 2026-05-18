@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Wasp Control", "Hornet Control", "Stinging Insects"]
-image: "https://images.pexels.com/photos/2292837/pexels-photo-2292837.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/4177628/pexels-photo-4177628.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Wasps and hornets are among the most anxiety-inducing home pests — and with good reason. Unlike honeybees, most wasps and hornets can sting repeatedly. Yellowjackets are aggressive and will pursue anyone who disturbs a nest. Bald-faced hornets defend their territory vigorously. And for people with venom allergies, a sting can be life-threatening.

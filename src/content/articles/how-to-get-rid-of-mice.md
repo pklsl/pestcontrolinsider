@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Rodent Control", "Mouse Control", "DIY Pest Control"]
-image: "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/7180053/pexels-photo-7180053.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A single mouse in your home can quickly become a major infestation. A female house mouse reaches sexual maturity in just 6 weeks and can produce 5–10 litters per year, with 5–6 pups each. That means one mouse can theoretically become dozens within a few months.

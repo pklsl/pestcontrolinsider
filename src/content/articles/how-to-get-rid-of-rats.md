@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Rat Control", "Rodent Control", "DIY Pest Control"]
-image: "https://images.pexels.com/photos/4006273/pexels-photo-4006273.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/26923456/pexels-photo-26923456.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Rats are more serious than mice. They're larger, smarter, more destructive, and can pose greater health risks. A single rat can gnaw through electrical wiring, PVC pipes, and structural wood. They're also harder to control — rats are highly neophobic (suspicious of new objects in their environment), which makes trapping more challenging.

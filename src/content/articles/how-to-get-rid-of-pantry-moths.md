@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Pantry Moths", "Kitchen Pests", "DIY Pest Control"]
-image: "https://images.pexels.com/photos/5765827/pexels-photo-5765827.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/34300729/pexels-photo-34300729.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Opening your pantry to find moths flying out — or worse, discovering webbing and larvae in your flour or cereal — is an unsettling experience. Indian meal moths are the most common pantry pest in North America, and once they've established in your pantry, they spread quickly from one food item to another.

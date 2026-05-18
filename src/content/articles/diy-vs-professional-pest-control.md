@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["DIY Pest Control", "Professional Pest Control", "Pest Control Costs"]
-image: "https://images.pexels.com/photos/7469339/pexels-photo-7469339.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/5324732/pexels-photo-5324732.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Every pest problem comes with the same first question: do I handle this myself, or call a professional? The answer isn't the same for every situation. Some infestations are well within DIY reach; others are a waste of time and money to attempt without professional-grade products and expertise.

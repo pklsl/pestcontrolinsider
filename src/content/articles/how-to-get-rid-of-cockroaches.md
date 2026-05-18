@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Cockroach Control", "DIY Pest Control", "Indoor Pests"]
-image: "https://images.pexels.com/photos/4021777/pexels-photo-4021777.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/17177368/pexels-photo-17177368.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Few household pests trigger as much alarm as cockroaches. They contaminate food, spread bacteria, trigger asthma attacks, and reproduce at staggering rates. A single female German cockroach can produce up to 400 offspring in her lifetime — which is why acting quickly is critical.

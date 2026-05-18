@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Pest Control License", "Professional Pest Control", "Pesticide Applicator"]
-image: "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/36717695/pexels-photo-36717695.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Every state in the U.S. requires commercial pest control operators to hold a pesticide applicator license. The requirements vary significantly — from exam content and experience hours to renewal schedules and which categories require separate certification. This reference page covers the licensing structure and, for major states, the specific requirements a new applicant or business owner needs to know.

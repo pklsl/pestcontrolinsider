@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Spring Pest Control", "Seasonal Pest Control", "Pest Prevention"]
-image: "https://images.pexels.com/photos/4020573/pexels-photo-4020573.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/37122563/pexels-photo-37122563.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Spring is the most important time of year for pest prevention. As temperatures rise above 50°F, insect activity resurges, queen wasps emerge to establish new colonies, termite swarms begin, and overwintering mice become active again. A few hours of preventive work in early spring dramatically reduces pest pressure throughout the entire year.

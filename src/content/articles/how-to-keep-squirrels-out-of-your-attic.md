@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Squirrel Control", "Wildlife Control", "Attic Pests"]
-image: "https://images.pexels.com/photos/1619188/pexels-photo-1619188.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/30444465/pexels-photo-30444465.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Squirrels in the attic are one of the most common wildlife complaints from homeowners. They gnaw wiring (creating fire hazards), damage insulation, and create entry points that allow water, other wildlife, and cold air into the home. And once they establish a nest in an attic, they return year after year.

@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Drain Fly Control", "Kitchen Pests", "DIY Pest Control"]
-image: "https://images.pexels.com/photos/4020573/pexels-photo-4020573.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/36484131/pexels-photo-36484131.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Drain flies — also called moth flies or sewer flies — are often mistaken for fruit flies. They're both small, both associated with kitchens and bathrooms, and both appear suddenly in large numbers. But they breed in completely different locations and require completely different treatments.

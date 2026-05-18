@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Signs of Termites", "Termite Damage", "Termite Detection"]
-image: "https://images.pexels.com/photos/8197503/pexels-photo-8197503.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/36729581/pexels-photo-36729581.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Termites cause an estimated $5 billion in property damage annually in the United States — more than all natural disasters combined. The worst part: most termite damage isn't covered by homeowners insurance, because insurers classify it as a preventable maintenance issue.

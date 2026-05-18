@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Japanese Beetles", "Garden Pest Control", "Lawn Pests"]
-image: "https://images.pexels.com/photos/1301856/pexels-photo-1301856.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/14051831/pexels-photo-14051831.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Japanese beetles are one of the most destructive garden pests in North America. Their distinctive skeletonized feeding damage — leaving behind the leafy skeleton while consuming the tissue — turns roses, linden trees, grapevines, and dozens of other plants into brown, shredded shadows of themselves. And they feed in groups, with the pheromones released by feeding beetles attracting more beetles to the same plant.

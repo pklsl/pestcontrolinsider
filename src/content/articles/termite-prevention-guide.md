@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Termite Prevention", "How to Prevent Termites", "Home Protection"]
-image: "https://images.pexels.com/photos/8197503/pexels-photo-8197503.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/5313647/pexels-photo-5313647.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Termites are responsible for more damage to American homes than fires and storms combined. But unlike most natural disasters, termite damage is almost entirely preventable. With the right combination of structural modifications, moisture control, and professional prevention treatments, you can protect your home from one of its most costly threats.

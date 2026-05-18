@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Flea Control", "Flea Treatment", "Pet Pest Control"]
-image: "https://images.pexels.com/photos/7722618/pexels-photo-7722618.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/20051631/pexels-photo-20051631.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A flea infestation in your home feels relentless. You treat your pet, and a week later you're still getting bitten. The reason: fleas have a 4-stage life cycle — egg, larva, pupa, and adult — and only the adults live on your pet. The other 95% of a flea population (eggs, larvae, and pupae) are distributed throughout your home in carpet, upholstery, and bedding.

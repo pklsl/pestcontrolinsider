@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Earwig Control", "DIY Pest Control", "Outdoor Pests"]
-image: "https://images.pexels.com/photos/4020573/pexels-photo-4020573.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/42264/pexels-photo-42264.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Despite their alarming reputation, earwigs are far less dangerous than folklore suggests. They do not crawl into ears, do not burrow into brains, and are not venomous. The pincers at the rear of their abdomen (called cerci) are used for defense and mating — not for harming humans, though a large one can deliver a mild pinch if handled.

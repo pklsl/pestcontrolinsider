@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Lawn Grubs", "Grub Control", "Lawn Pest Control"]
-image: "https://images.pexels.com/photos/1453499/pexels-photo-1453499.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/35882/pexels-photo-35882.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 If you've pulled back brown, dead patches of lawn and found the turf rolls up like a carpet — with the soil underneath revealing fat, white, C-shaped larvae — you have a grub problem. Grubs are the larval stage of several beetles, and they feed on grass roots, causing dead patches that expand through summer and fall.

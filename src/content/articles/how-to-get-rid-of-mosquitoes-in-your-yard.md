@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Mosquito Control", "Yard Pest Control", "Outdoor Pests"]
-image: "https://images.pexels.com/photos/1527764/pexels-photo-1527764.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/88512/pexels-photo-88512.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Mosquitoes don't just ruin outdoor gatherings — they're vectors for West Nile virus, Eastern equine encephalitis, and (in some regions) dengue and Zika. Effective yard mosquito control reduces both the nuisance and the health risk for your family.

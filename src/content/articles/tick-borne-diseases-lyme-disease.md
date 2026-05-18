@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Tick-Borne Diseases", "Lyme Disease", "Tick Prevention"]
-image: "https://images.pexels.com/photos/7722618/pexels-photo-7722618.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/220612/pexels-photo-220612.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Ticks are more than a nuisance — they're vectors for serious, potentially debilitating diseases. In the United States, tick-borne illnesses account for more than 50,000 reported cases per year (and many more unreported), with numbers rising as tick populations expand northward.

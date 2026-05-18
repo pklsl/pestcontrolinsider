@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Ground Nesting Bees", "Ground Nesting Wasps", "Stinging Insects"]
-image: "https://images.pexels.com/photos/2292837/pexels-photo-2292837.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/20858403/pexels-photo-20858403.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Finding holes in your lawn with insects flying in and out can be alarming — but before reaching for a can of spray, it's worth knowing what you're dealing with. Most ground-nesting insects are solitary, harmless, and ecologically important. Some are genuinely dangerous social wasps that warrant treatment. This guide helps you tell the difference and respond appropriately.

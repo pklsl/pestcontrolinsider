@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Pet Safe Pest Control", "Pet Friendly Bug Spray", "Natural Pest Control"]
-image: "https://images.pexels.com/photos/1301856/pexels-photo-1301856.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/8434585/pexels-photo-8434585.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Pest control and pet safety are two things that frequently come into conflict. Many effective insecticides are harmful to dogs and cats — sometimes critically so. Understanding which chemicals to avoid and which safer alternatives work is essential for any pet household.

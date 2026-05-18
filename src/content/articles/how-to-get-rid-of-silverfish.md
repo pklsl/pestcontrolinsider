@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Silverfish Control", "DIY Pest Control", "Indoor Pests"]
-image: "https://images.pexels.com/photos/4021758/pexels-photo-4021758.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/4627295/pexels-photo-4627295.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Silverfish are one of the oldest insects on Earth — they've existed for over 400 million years, long before the dinosaurs. They're also one of the most resilient household pests. These teardrop-shaped, silver-scaled insects can live for 2–8 years and go months without food. But with the right treatment, you can eliminate them and protect your home and belongings.

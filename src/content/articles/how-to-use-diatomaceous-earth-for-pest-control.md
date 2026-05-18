@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Diatomaceous Earth", "Natural Pest Control", "Organic Pest Control"]
-image: "https://images.pexels.com/photos/4020573/pexels-photo-4020573.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/32055757/pexels-photo-32055757.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Diatomaceous earth (DE) is one of the most versatile and widely recommended non-toxic pest control tools available to homeowners. It works through a purely physical mechanism — no chemicals, no toxins — making it safe for use around children, pets, and food preparation areas.

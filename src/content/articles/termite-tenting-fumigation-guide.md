@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Termite Tenting", "Termite Fumigation Cost", "Drywood Termites"]
-image: "https://images.pexels.com/photos/7469339/pexels-photo-7469339.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/31748496/pexels-photo-31748496.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 If you've been told you need termite tenting — also called structural fumigation — you're facing one of the most disruptive home treatments available. Vacating your home for 2–4 days, bagging your food, and making arrangements for pets is a significant inconvenience. But for certain termite infestations, it's the most reliable solution available.

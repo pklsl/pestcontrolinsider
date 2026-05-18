@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Fall Pest Control", "Seasonal Pest Control", "Rodent Control"]
-image: "https://images.pexels.com/photos/4020573/pexels-photo-4020573.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10857421/pexels-photo-10857421.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Fall is the second most important pest control season — and for homeowners in the northern half of the country, it may actually be more critical than spring. As temperatures drop in September and October, a predictable sequence of pest invasions begins: mice start seeking shelter, stink bugs and box elder bugs mass on warm exterior walls, yellowjacket queens prepare to overwinter, and overwintering insects of all types try to move inside.

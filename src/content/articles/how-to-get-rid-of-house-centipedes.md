@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Centipede Control", "DIY Pest Control", "Indoor Pests"]
-image: "https://images.pexels.com/photos/6591598/pexels-photo-6591598.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/18893195/pexels-photo-18893195.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Few insects cause as much alarm as the house centipede. With its long, spindly legs, rapid movement, and disturbing appearance, finding one in your bathroom or basement is enough to send most people scrambling. But here's the thing: house centipedes are actually beneficial. They eat spiders, cockroaches, silverfish, ants, and other household pests.

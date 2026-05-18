@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Pest-Borne Diseases", "Diseases from Pests", "Pest Health Risks"]
-image: "https://images.pexels.com/photos/7469339/pexels-photo-7469339.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/19789837/pexels-photo-19789837.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Pest control isn't just about comfort — it's a public health issue. Many common household pests transmit diseases that range from mild to life-threatening. Understanding what diseases are associated with which pests, and how transmission occurs, informs both prevention and treatment decisions.

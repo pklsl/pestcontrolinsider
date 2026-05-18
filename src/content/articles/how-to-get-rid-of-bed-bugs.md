@@ -5,7 +5,7 @@ pubDate: 2026-04-19
 updatedDate: 2026-04-19
 author: "Kevin Larrabee"
 tags: ["Bed Bug Treatment", "Bed Bug Control", "Pest Control"]
-image: "https://images.pexels.com/photos/4021758/pexels-photo-4021758.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/6436247/pexels-photo-6436247.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Bed bugs are one of the hardest pests to eliminate. They're resistant to many pesticides, they hide in dozens of locations throughout a room, and they can survive for months without feeding. A DIY approach can work for early, localized infestations — but most established infestations require professional treatment.
