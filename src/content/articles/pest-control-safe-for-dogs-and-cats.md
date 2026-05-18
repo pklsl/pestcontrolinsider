@@ -4,10 +4,10 @@ description: "How to deal with common household pests when you have dogs or cats
 pubDate: 2026-05-18
 author: "Kevin Larrabee"
 tags: ["pet-safe pest control", "pest control", "dogs", "cats"]
-image: "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/1909802/pexels-photo-1909802.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
-Pest problems don't stop because you have pets — but the approach you take has to change. Many of the most effective pest control products are harmful or outright toxic to dogs and cats. The good news is that for most common household pests, there are safe, effective options that work well around pets.
+Pest problems don't stop because you have pets — but the approach you take has to change. Many of the most effective pest control products are harmful or outright toxic to dogs and cats. The good news is that for most common household pests, there are safe, effective options that work well around pets. For a product-focused look at which chemicals are dangerous and which are safe, see our [pet-safe pest control guide](/articles/pet-safe-pest-control).
 
 Here's a practical room-by-room guide to managing pests when you share your home with animals.
 
@@ -15,7 +15,7 @@ Here's a practical room-by-room guide to managing pests when you share your home
 
 ### Ants
 
-Ants are the most common kitchen pest and also one of the easiest to handle safely around pets.
+Ants are the most common kitchen pest and also one of the easiest to handle safely around pets. For a full treatment guide, see our article on [how to get rid of ants in your house](/articles/how-to-get-rid-of-ants-in-your-house).
 
 **Safe approach:** Borax-based bait stations like TERRO Liquid Ant Bait are highly effective and low-risk for pets. The enclosed stations limit direct contact, and the borax concentration is too low to cause significant harm if a pet licks one. Keep stations away from dogs that might chew through the plastic casing.
 
@@ -25,7 +25,7 @@ Ants are the most common kitchen pest and also one of the easiest to handle safe
 
 ### Cockroaches
 
-Cockroaches are harder to eliminate but manageable with pet-safe methods.
+Cockroaches are harder to eliminate but manageable with pet-safe methods. For a complete cockroach treatment plan, see our guide on [how to get rid of cockroaches](/articles/how-to-get-rid-of-cockroaches).
 
 **Safe approach:** Gel baits (Advion, InVict Gold) placed inside cracks, under appliances, and behind cabinets are excellent — pets can't easily access them, and the active ingredient (indoxacarb or imidacloprid) is targeted to insect biology. Boric acid applied inside wall voids, under kick plates, and behind appliances provides long-term control with minimal pet exposure risk.
 
@@ -33,7 +33,7 @@ Cockroaches are harder to eliminate but manageable with pet-safe methods.
 
 ### Pantry Moths and Grain Beetles
 
-**Safe approach:** Pheromone traps catch and monitor adult moths. Combined with throwing out infested dry goods and cleaning shelves thoroughly, this handles most infestations without any pesticide.
+**Safe approach:** Pheromone traps catch and monitor adult moths. Combined with throwing out infested dry goods and cleaning shelves thoroughly, this handles most infestations without any pesticide. See our full guide on [how to get rid of pantry moths](/articles/how-to-get-rid-of-pantry-moths) for step-by-step instructions.
 
 ## Living Rooms and Bedrooms
 
@@ -41,20 +41,20 @@ Cockroaches are harder to eliminate but manageable with pet-safe methods.
 
 Fleas are the most common pest issue in pet households and require treating both the pet and the environment simultaneously.
 
-**Pet treatment:** Consult your vet. Oral medications (NexGard, Bravecto, Comfortis) are the gold standard — nothing topical to worry about. If using a topical treatment, **never apply a dog flea product containing permethrin to a cat**, and keep dogs and cats separated until the product dries.
+**Pet treatment:** Consult your vet. Oral medications (NexGard, Bravecto, Comfortis) are the gold standard — nothing topical to worry about. For detailed product comparisons, see our guide to [flea and tick prevention for dogs and cats](/articles/flea-and-tick-prevention-for-dogs-and-cats). If using a topical treatment, **never apply a dog flea product containing permethrin to a cat**, and keep dogs and cats separated until the product dries.
 
 **Home treatment:**
 
 - Wash all pet bedding in hot water weekly
 - Vacuum carpets, upholstered furniture, and baseboards thoroughly — this physically removes flea eggs and larvae
-- **Food-grade diatomaceous earth** applied to carpet edges and under furniture is a low-toxicity option that kills fleas mechanically. Keep pets out of the room during application and until dust settles
+- **Food-grade diatomaceous earth** applied to carpet edges and under furniture is a low-toxicity option that kills fleas mechanically. Keep pets out of the room during application and until dust settles. Learn more in our guide on [using diatomaceous earth for pest control](/articles/how-to-use-diatomaceous-earth-for-pest-control)
 - For severe infestations, spray products containing **pyriproxyfen or methoprene** (insect growth regulators) are safer than adulticides — they prevent eggs from hatching rather than killing insects with nerve agents
 
-**What to avoid:** Flea bombs in pet bedrooms deposit permethrin and pyrethroids on surfaces where pets sleep. If using them, wash all pet bedding and surfaces before allowing pets back.
+**What to avoid:** Flea bombs in pet bedrooms deposit permethrin and pyrethroids on surfaces where pets sleep. If using them, wash all pet bedding and surfaces before allowing pets back. For comprehensive flea treatment steps, see our guide on [how to get rid of fleas in your house](/articles/how-to-get-rid-of-fleas-in-your-house).
 
 ### Spiders and General Insects
 
-**Safe approach:** Sticky traps catch spiders and crawling insects with zero toxicity. For ongoing control, **cedar spray** products or **diatomaceous earth** along baseboards and in corners work well without chemical residue.
+**Safe approach:** Sticky traps catch spiders and crawling insects with zero toxicity. For ongoing control, **cedar spray** products or **diatomaceous earth** along baseboards and in corners work well without chemical residue. See our guide on [how to get rid of spiders](/articles/how-to-get-rid-of-spiders) for more details.
 
 Most spider populations in homes are controlled by reducing their food source (other insects) rather than direct treatment.
 
@@ -78,7 +78,7 @@ Keeping rodent bait away from pets outdoors is critical.
 
 **Safe approach:** Tamper-resistant bait stations (required by law in many states) are the only acceptable way to use rodenticide around pets. Even then, there's a secondary poisoning risk if your pet catches and eats a poisoned rodent.
 
-**Safer alternatives:** Electronic traps, snap traps inside bait station housing, and exclusion work (sealing entry points) reduce the need for rodenticide.
+**Safer alternatives:** Electronic traps, snap traps inside bait station housing, and exclusion work (sealing entry points) reduce the need for rodenticide. For trap recommendations, see our guide to the [best mouse traps](/articles/best-mouse-traps-2026) and [how to get rid of mice](/articles/how-to-get-rid-of-mice).
 
 ## When You Hire a Pest Control Company
 
